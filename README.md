@@ -7,7 +7,7 @@
 [![TailwindCSS](https://img.shields.io/badge/Styling-Tailwind_CSS_3-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Tests](https://img.shields.io/badge/Tests-7%20Passed-brightgreen?style=flat&logo=pytest&logoColor=white)](https://docs.pytest.org/)
 
-A fullstack **Student Management System** built with **FastAPI** (Python 3), **SQLAlchemy ORM**, **SQLite**, and a **React + Vite** single-page application styled with **Tailwind CSS** and **Framer Motion**.
+A fullstack **Student Management System** built with **FastAPI** (Python 3), **SQLAlchemy ORM**, **MYSQL**, and a **React + Vite** single-page application styled with **Tailwind CSS** and **Framer Motion**.
 
 Designed for the **MintMesh Take-Home Assessment (Fullstack SDE)** with a focus on strong backend fundamentals, validation, automated test coverage, and a responsive component-based UI.
 
