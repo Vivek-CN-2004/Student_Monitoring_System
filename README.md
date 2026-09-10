@@ -59,6 +59,11 @@ validation, and error handling of the application.
       <strong>8. Backend Server Error</strong><br>
       <img src="screenshots/server_error.png" width="420">
     </td>
+    ### MySQL Database Table
+
+  <p align="center">
+   <img src="screenshots/database_table_view.png" width="700">
+  </p>
   </tr>
 </table>
 
